@@ -1,3 +1,7 @@
+Browse the [Examples](https://www.meteor.com/examples/leaderboard) — and don't miss the original Meteor [screencast](https://www.meteor.com/authcast)!
+
+Or view the [authcast](http://v.youku.com/v_show/id_XNTYwMjc2MDA4.html) on Youku.
+
 # Meteor
 
 Meteor is an ultra-simple environment for building modern web
